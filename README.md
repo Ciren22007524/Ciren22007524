@@ -14,9 +14,9 @@
 
 ### 🙋 關於我
 
-- 🔭 目前在做：個人化的生產力工具 —— 自動排程的 [**planner**](https://github.com/Ciren22007524/planner)、健身課表 PWA [**reproute**](https://github.com/Ciren22007524/reproute)
+- 🔭 目前在做：個人化的生產力工具與生活自動化小幫手
 - 🌱 正在學習：Rust、事件驅動架構（CDC / Debezium）
-- 🎮 興趣：寶可夢、遊戲製作、把重複的日常交給程式處理
+- 🎮 興趣：遊戲製作、把重複的日常交給程式處理
 - 💬 可以跟我聊：Java 後端、TypeScript 前端、PWA、自動化小工具
 
 ### 🧰 技術棧
@@ -34,19 +34,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-### 🚀 精選專案
-
-| 專案 | 說明 | 技術 |
-| --- | --- | --- |
-| 🗓️ [planner](https://github.com/Ciren22007524/planner) | 有空時選時長，自動排出今天的例行事項、學習與專案進度，支援桌面 widget | TypeScript |
-| 💪 [reproute](https://github.com/Ciren22007524/reproute) | 個人健身課表 PWA | TypeScript |
-| 🧬 [pokemon-infusion-simulator](https://github.com/Ciren22007524/pokemon-infusion-simulator) | 自製寶可夢無限融合模擬器 | TypeScript |
-| 🏠 [butler](https://github.com/Ciren22007524/butler) | 家庭用小管家，提供各種方便服務 | — |
-| 🔐 [auth-service](https://github.com/Ciren22007524/auth-service) | 登入服務 | TypeScript |
-| 🥮 [ren-the-pastry-chef](https://github.com/Ciren22007524/ren-the-pastry-chef) | 中秋月餅形象網站 | JavaScript |
-| 🎨 [styleforge](https://github.com/Ciren22007524/styleforge) | 遊戲製作測試 | Rust |
-| 🔄 [Debezium-Demo](https://github.com/Ciren22007524/Debezium-Demo) | Debezium CDC 示範 | Java |
 
 ### 📊 GitHub 統計
 
