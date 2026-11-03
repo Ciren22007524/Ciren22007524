@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .title { font: 700 52px 'Segoe UI', 'Helvetica Neue', Arial, 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif; fill: #fff; }
+    .sub { font: 500 24px 'Fira Code', Consolas, 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', monospace; fill: #fff; opacity: 0; animation: cycle 9s infinite; }
+    .s2 { animation-delay: 3s; }
+    .s3 { animation-delay: 6s; }
+    .fade { animation: fadein 1.2s ease-out both; }
+    @keyframes cycle { 0% { opacity: 0; } 5%, 28% { opacity: .95; } 33%, 100% { opacity: 0; } }
+    @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+  <path fill="url(#g)" d="M0 0H1200V180C1050 230 900 150 750 175S450 240 300 200 100 170 0 195Z"/>
+  <text class="title fade" x="600" y="95" text-anchor="middle">Hi, I'm Ciren 👋</text>
+  <text class="sub" x="600" y="145" text-anchor="middle">喜歡把想法做成小工具 🛠️</text>
+  <text class="sub s2" x="600" y="145" text-anchor="middle">Java · TypeScript · Python · Rust</text>
+  <text class="sub s3" x="600" y="145" text-anchor="middle">正在打造自己的生活小幫手 🤖</text>
+</svg>
