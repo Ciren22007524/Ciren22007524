@@ -28,4 +28,10 @@
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
 </p>
 
+### 📊 GitHub 統計
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ciren22007524&theme=tokyonight&hide_border=true" />
+</div>
+
 <img src="assets/footer.svg" width="100%" />
